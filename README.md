@@ -1,3 +1,3 @@
 # NAVBC2019AD
 
-testni repozitorij za BC NAV
+testni repozitorij za BC NAV bla
