@@ -45,4 +45,5 @@ page 50100 SimpleCustomerList
     var
         enum1: Enum CustomEnum;
         enum2: Enum Vozila;
+        iCount: Integer;
 }
